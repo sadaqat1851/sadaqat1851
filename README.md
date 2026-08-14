@@ -48,13 +48,13 @@
 
 ## 🔬 About Me
 
-I am an **interdisciplinary science student** at Uswa College Islamabad, Pakistan, pursuing a path that intentionally bridges **biological sciences**, **data science/AI**, and **pre-medical disciplines**. Rather than choosing one field, I believe the most impactful science lives at their intersection.
+I am an **interdisciplinary science student** at Uswa College Islamabad currently studying Data Science and Biolgical Science, Pakistan, pursuing a path that intentionally bridges **biological sciences**, **data science/AI**, and **pre-medical disciplines**. Rather than choosing one field, I believe the most impactful science lives at their intersection.
 
 My work ranges from **CRISPR-based molecular diagnostics** and **paper biosensors** to **EEG brain signal classification** and **AI-powered plant disease detection** — all united by a single question: *How can we use data and biology together to solve real health problems?*
 
 | 🎯 | Detail |
 |----|--------|
-| 🏫 **Institution** | Uswa College Islamabad |
+| 🏫 **Institutions** | Uswa College Islamabad | Comsats University | 
 | 📐 **Degree Goal** | BS in Bioscience & Biotechnology + Data Science |
 | 🧬 **Bio Focus** | CRISPR · RPA · Paper Biosensors · Genomics |
 | 📊 **Data Focus** | ML · Bioinformatics · Signal Processing · CV |
