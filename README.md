@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadaqat Hussain</h1>
 
-<h3 align="center">Interdisciplinary Science Student | Where Biology × Data Science × Medicine Converge</h3>
+<h3 align="center">Interdisciplinary Science Student | Where Biology × Data Science × HealthCare Converge</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Biological_Sciences-Molecular_%26_Cell_Biology-2E7D32?style=for-the-badge&logo=dna&logoColor=white"/>
